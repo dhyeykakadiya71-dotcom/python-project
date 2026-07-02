@@ -60,7 +60,7 @@ Follow these steps to run the project on your local machine:
    ```
 3. **Run the Python file**
    ```bash
-   python main.py
+   python py_pr_1.py
    ```
 
 ---
