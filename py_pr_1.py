@@ -1,0 +1,43 @@
+print(" ***************************************** ")
+print("|                                         |")
+print("| welcome to the Personal Data Collector! |")
+print("|                                         |")
+print(" ***************************************** ")
+
+print()
+print()
+
+name = input("Please enter your name: ")
+age = int(input("Please enter your age: "))
+hight = float(input("Please enter your hight(in meters): "))
+fav_num = int(input("Please enter your favorite number: "))
+
+print()
+print()
+
+print("Thank you! Here the information we collected:")
+
+print()
+print()
+
+print("Name:",name,"(Type:",type(name),", memory address:",id(name))
+print("Age:",age,"(Type:",type(age),", memory address:",id(age))
+print("HIght:",hight,"(Type:",type(hight),", memory address:",id(hight))
+print("Favorite Number:",fav_num,"(Type:",type(fav_num),", memory address:",id(fav_num))
+
+birth_year = 2026 - age
+
+print()
+print()
+
+print("Your birth year is approximately:",birth_year,"(Based on your age of",age,")")
+
+print()
+print()
+
+print(" ************************************************************ ")
+print("|                                                            |")
+print("| Thank you for using the personal data collector. Good bye! |")
+print("|                                                            |")
+print(" ************************************************************ ")
+
