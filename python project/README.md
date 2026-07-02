@@ -39,9 +39,9 @@ This project is ideal for beginners who want to understand how Python handles us
 
 ```text
 Project/
-│── main.py
 │── README.md
-|── output.png
+│── py_pr_1.py
+|── python project 1 output.png
 ```
 
 ---
