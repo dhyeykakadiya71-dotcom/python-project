@@ -1,0 +1,67 @@
+print(" *************************************************************** ")
+print("|                                                               |")
+print("| Welcome to Pattern Generator and Number Analyzer! Loading.... |")
+print("|                                                               |")
+print(" *************************************************************** ")
+
+print("\nSelect an Option:")
+print("1. Right-angele Triangel")
+print("2. Pyramid")
+print("3. Left-angele Triangel")
+print("4. Analyze Range of Number")
+option = int(input("Enter the Option:"))
+
+if option == 1:
+    row = int(input("Enter the Row number of Right-angele Triangel:"))
+    for i in range(1,row + 1):
+        pass
+        for j in range(i):
+            print("*", end=" ")
+        print()
+elif option == 2:
+    row = int(input("Enter the Row number of Pyramid:"))
+    for a in range(1,row + 1):
+        pass
+
+        for b in range(row - a):
+            print(" ", end="")
+
+        for c in range(2 * a - 1):
+            print("*", end="")
+        print()
+elif option == 3:
+    row = int(input("Enter the row number of Left-angel Triangel:"))
+    for i in range(1, row + 1):
+        pass
+        for j in range(row - i):
+            print(" ", end="")
+        for k in range(i):
+            print("*", end="")
+        print()
+elif option == 4:
+    start = int(input("Enter the starting range:"))
+    end = int(input("Enter the ending range:"))
+
+    total_sum = 0
+
+    for num in range(start, end + 1):
+        even = False
+
+        for i in range(0, num + 1, 2):
+            if i == num:
+                even = True
+                break
+
+        if even:
+            print(f"Number {num} is Even")
+
+        else:
+            print(f"Number {num} is Odd")
+
+        total_sum += 1
+
+    print(f"Sum of all numbers from {start} to {end} is: {total_sum}")
+
+else:
+    print("invalide choise")
+    
