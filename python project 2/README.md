@@ -123,7 +123,7 @@ Sum of all numbers from 1 to 5 is: 5
 
 ## 📸 Screenshot
 
-![Program Output1](<img width="776" height="528" alt="image" src="https://github.com/user-attachments/assets/ea5dccc8-e2e3-4dae-9f41-7757848e8a0f" />)
+![Program Output1](https://github.com/dhyeykakadiya71-dotcom/python-project/blob/main/python%20project%202/Screenshot%202026-07-12%20144849.png)
 ![Program Output2](https://github.com/dhyeykakadiya71-dotcom/python-project/blob/main/python%20project%202/Screenshot%202026-07-12%20144912.png)
 
 ---
