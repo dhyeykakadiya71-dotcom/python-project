@@ -57,11 +57,11 @@ No external dependencies or installation steps are required — this project run
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/dhyeykakadiya71-dotcom/python-project.git
+   git clone https://github.com/dhyeykakadiya71-dotcom/python project 2.git
    ```
 2. **Open the project folder**
    ```bash
-   cd python-project
+   cd python project 2
    ```
 3. **Run the Python file**
    ```bash
