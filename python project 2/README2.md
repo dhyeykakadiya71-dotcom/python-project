@@ -123,7 +123,8 @@ Sum of all numbers from 1 to 5 is: 5
 
 ## 📸 Screenshot
 
-![Program Output](output.png)
+![Program Output](<img width="776" height="528" alt="image" src="https://github.com/user-attachments/assets/ea5dccc8-e2e3-4dae-9f41-7757848e8a0f" />)
+![Program Output]()
 
 ---
 
